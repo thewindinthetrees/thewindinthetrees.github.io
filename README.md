@@ -166,7 +166,7 @@ ___
 </figure>
 
 <div style="background-color: lightgrey; padding: 20px;">
-_At Pecos, the goal of preservation activities is to stabilize and repair the existing buildings to reflect the history of the site appropriately. The intention is not to reconstruct, or build anew what once existed, but rather to preserve what is already there._
+At Pecos, the goal of preservation activities is to stabilize and repair the existing buildings to reflect the history of the site appropriately. The intention is not to reconstruct, or build anew what once existed, but rather to preserve what is already there.
 </div>
 
 
@@ -215,7 +215,7 @@ Gas powered Barrows and Mixers really help out when you have a task that’s alr
 
 <br>
 <div style="background-color: lightgrey; padding: 20px;">
-_While this building material is durable in New Mexico's climate, the adobes last longer when protected from the elements with a coat of mud plaster. Made from the same mud mix as adobe bricks, the plaster will take the brunt of the weather, much like the siding on your house. Historically this is how the building walls were treated at Pecos._
+While this building material is durable in New Mexico's climate, the adobes last longer when protected from the elements with a coat of mud plaster. Made from the same mud mix as adobe bricks, the plaster will take the brunt of the weather, much like the siding on your house. Historically this is how the building walls were treated at Pecos.
 <br>
 </div>
 
@@ -346,17 +346,24 @@ We had to break for the day a few hours early as an unexpected storm developed.
 
 ## Log Entries 07 - Day 7. 
 
+
 **Week 5**. 
+
 
 07/25/2022. 
 
+
 8am-3pm. 
+
 
 15 minute break at 10am and 30 minute break for lunch at 12pm. 
 
+
 **Hours:** 6hr 15mins. 
 
+
 **Hours to date:** 43:45. 
+
 
 ---
 
