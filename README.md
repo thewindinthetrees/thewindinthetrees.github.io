@@ -40,7 +40,7 @@ Pecos became a State Monument in 1935, and National Park in 1965 and 1990s becam
 ## Introduction: My Practicum
 I was interested in doing field work at multiple locations but in the end I spent the entire practicum working at the [Pecos National Historical Park](https://www.nps.gov/peco/index.htm) and specifically working with the Preservation team in and around the Convento of the Spanish Mission Church and Pueblo. Over the course of five weeks I worked with a team of Interns and Park Rangers under direction from Park Archaeologists **Jeremy Moss** and **Kate Scot**.  
 
-#### Timesheet for David Kennedy @ Pecos
+## Timesheet for David Kennedy @ Pecos
 <figure>
     <img src="images/timesheet.jpg"
          alt="TimeSheet for Practicum">
@@ -60,7 +60,7 @@ I was interested in doing field work at multiple locations but in the end I spen
 | 5  |7/25/22|  6.25 | **43:45**     |
 
 
-#### Log Entries 01 - Day 1
+## Log Entries 01 - Day 1
 
 **Week 1**
 
@@ -99,7 +99,7 @@ By the end of the day I had a good idea of who does what, where things are locat
 
 ___
 
-#### Log Entries 02 - Day 2
+## Log Entries 02 - Day 2
 
 **Week 2**
 
@@ -144,7 +144,7 @@ Today the Mud mix was a little different (We had to adjust to a 1:1 Clay Soil: S
 
 ---
 
-#### Log Entries 03 - Day 3
+## Log Entries 03 - Day 3
 Week 3
 07/13/2022
 8am-3pm
@@ -183,7 +183,7 @@ The rest of the day was spent Pointing and Plastering Walls.
 </figure>
 
 ---
-#### Log Entries 04 - Day 4
+## Log Entries 04 - Day 4
 Week 4
 07/14/2022
 8am-3pm
@@ -243,7 +243,7 @@ Today I also got to observe and help with the removal of a portion of failing wa
 
 ---
 
-#### Log Entries 05 - Day 5
+## Log Entries 05 - Day 5
 
 **Week 4**
 
@@ -284,7 +284,7 @@ After **Brie** placed the course I got to point around them.
 
 ---
 
-#### Log Entries 06 - Day 6
+## Log Entries 06 - Day 6
 
 **Week 4** 
 07/21/2022
@@ -332,7 +332,7 @@ We had to break for the day a few hours early as an unexpected storm developed.
 
 ---
 
-#### Log Entries 07 - Day 7
+## Log Entries 07 - Day 7
 
 **Week 5** 
 07/25/2022
@@ -357,7 +357,7 @@ I had a good time working with this team, they made me feel useful and I felt th
 
 ---
 
-#### Learning Outcome
+## Learning Outcome
 
 <div style="background-color: navajowhite; padding: 20px;">
 Clay is impossible to screen when its damp, it has been super annoying to find organic matter and aggregate in the plaster as it scrapes the surface of the caps and joints when you apply , so it slows down the process as you have to rework the finish and remove the object and refinish.
