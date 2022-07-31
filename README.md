@@ -97,19 +97,20 @@ By the end of the day I had a good idea of who does what, where things are locat
 
 ___
 
-## Log Entries 02 - Day 2
+## Log Entries 02 - Day 2. 
 
-**Week 2**
+**Week 2**. 
 
-07/07/2022
+07/07/2022. 
 
-8am-3pm
+8am-3pm. 
 
-15 minute break at 10am and 30 minute break for lunch at 12pm
+15 minute break at 10am and 30 minute break for lunch at 12pm. 
 
-**Hours:** 6 hr 15 mins
+**Hours:** 6 hr 15 mins. 
 
-**Hours to date:** 12:30
+**Hours to date:** 12:30. 
+
 ___
 
 Reported to **Kate**, she asked me to work with **Jeremy**. He showed myself and **Mark** how to clean and prepare a _Wall Cap_ for replastering. We brushed the wall top with small seagrass broom, then primed the cleaned cap with water and filled the biggest cracks with mud. We repeated this over several walls. After break the mud in the craks were dry enough to be worked over with a second coat this time over the entire _Cap_ of the wall.
@@ -154,7 +155,7 @@ Today the Mud mix was a little different (We had to adjust to a 1:1 Clay Soil: S
 
 **Hours:** 6 hr 15 mins. 
 
-**Hours to date:** 18:45  
+**Hours to date:** 18:45. 
 
 ___
 
@@ -186,13 +187,19 @@ The rest of the day was spent Pointing and Plastering Walls.
 </figure>
 
 ---
-## Log Entries 04 - Day 4
-**Week 4**
-07/14/2022
-8am-3pm
-15 minute break at 10am and 30 minute break for lunch at 12pm
-**Hours:** 6 hr 15 mins
-**Hours to date:** 25:00
+## Log Entries 04 - Day 4. 
+
+**Week 4**. 
+
+07/14/2022. 
+
+8am-3pm. 
+
+15 minute break at 10am and 30 minute break for lunch at 12pm. 
+
+**Hours:** 6 hr 15 mins. 
+
+**Hours to date:** 25:00. 
 
 ---
 
@@ -246,19 +253,20 @@ Today I also got to observe and help with the removal of a portion of failing wa
 
 ---
 
-## Log Entries 05 - Day 5
+## Log Entries 05 - Day 5. 
 
-**Week 4**
+**Week 4**. 
 
-07/20/2022
+07/20/2022. 
 
-8am-3pm
+8am-3pm. 
 
-15 minute break at 10am and 30 minute break for lunch at 12pm
+15 minute break at 10am and 30 minute break for lunch at 12pm. 
 
-**Hours:** 6 hr 15 mins
+**Hours:** 6 hr 15 mins. 
 
-**Hours to date:** 31:15
+**Hours to date:** 31:15. 
+
 ___
 
 Today I did a lot of observing and assisting on a large wall that needed courses replaced after the veneer front had started to pull away from the wall. Metal Tags date and mark the point of intervention for future preservationists.
@@ -287,18 +295,19 @@ After **Brie** placed the course I got to point around them.
 
 ---
 
-## Log Entries 06 - Day 6
+## Log Entries 06 - Day 6. 
 
-**Week 4** 
-07/21/2022
+**Week 4**. 
 
-8am-1:30pm
+07/21/2022. 
 
-15 minute break at 10am and 30 minute break for lunch at 12pm
+8am-1:30pm. 
 
-**Hours:** 4hr 45mins
+15 minute break at 10am and 30 minute break for lunch at 12pm. 
 
-**Hours to date:** 37:30
+**Hours:** 4hr 45mins. 
+
+**Hours to date:** 37:30.  
 
 ---
 
@@ -335,14 +344,19 @@ We had to break for the day a few hours early as an unexpected storm developed.
 
 ---
 
-## Log Entries 07 - Day 7
+## Log Entries 07 - Day 7. 
 
-**Week 5** 
-07/25/2022
-8am-3pm
-15 minute break at 10am and 30 minute break for lunch at 12pm
-**Hours:** 6hr 15mins
-**Hours to date:** 43:45
+**Week 5**. 
+
+07/25/2022. 
+
+8am-3pm. 
+
+15 minute break at 10am and 30 minute break for lunch at 12pm. 
+
+**Hours:** 6hr 15mins. 
+
+**Hours to date:** 43:45. 
 
 ---
 
@@ -363,18 +377,21 @@ I had a good time working with this team, they made me feel useful and I felt th
 ## Learning Outcome
 
 <div style="background-color: navajowhite; padding: 20px;">
-Clay is impossible to screen when its damp, it has been super annoying to find organic matter and aggregate in the plaster as it scrapes the surface of the caps and joints when you apply , so it slows down the process as you have to rework the finish and remove the object and refinish.
+Clay is impossible to screen when its damp, it has been super annoying to find organic matter and aggregate in the plaster as it scrapes the surface of the caps and joints when you apply , so it slows down the process as you have to rework the finish and remove the object and refinish.  
+    
 <!--**I would suggest covering the ingredients area with tarps however it just seems to be an issue that everyone is used to. The sand / soil area is large. If the ingredients were kept dry the mix could be more consistent and the each batch could be screened when being mixed.**-->
-The right equipment is very important things like adequate shade to power tools like the [arborteh brick and mortar saw](https://www.amazon.com/ARBORTECH-ALLSAW-Masonry-Restoration-ALL-FG-175110-20/dp/B07T2MV982) make a huge difference to productivity. 
-Other power tools like a Multimixer for Plaster / Mortar / Adobe and Power Wheel Barrows really help with burnout and keeping energy level high especially 
+The right equipment is very important things like adequate shade to power tools like the [arborteh brick and mortar saw](https://www.amazon.com/ARBORTECH-ALLSAW-Masonry-Restoration-ALL-FG-175110-20/dp/B07T2MV982) make a huge difference to productivity.  
+    
+Other power tools like a Multimixer for Plaster / Mortar / Adobe and Power Wheel Barrows really help with burnout and keeping energy level high.  
 
-I feel like the time i spent mixing Mud was time well spent. I got a real feel for it, and found that I have improved enormously. 
+I feel like the time i spent mixing Mud was time well spent. I got a real feel for it, and found that I have improved enormously.  
 
-As much as I liked working on preserving, it was quite frustrating at time to see the process of only removing the damaged areas of walls, I feel like it took so much extra time to match in little portions when removing a larger area top to bottom would have been faster and made for a stronger wall in the end.
+As much as I liked working on preserving, it was quite frustrating at time to see the process of only removing the damaged areas of walls, I feel like it took so much extra time to match in little portions when removing a larger area top to bottom would have been faster and made for a stronger wall in the end.  
 
-Measurement and Leveling was not great, No speed leads were used but we were trying to match to old irregular walls, so it was not a matter of being able to learn skills that were best Practices.
+Measurement and Leveling was not great, No speed leads were used but we were trying to match to old irregular walls, so it was not a matter of being able to learn skills that were best Practices.  
 
-I also felt at time that communication was poor, when it came to a plan for rebuilding walls. I think that making a small sketch would have been helpful so everyone could see what the objective was and what the result should look like.
+I also felt at time that communication was poor, when it came to a plan for rebuilding walls. I think that making a small sketch would have been helpful so everyone could see what the objective was and what the result should look like.  
 
-I think that one of the most important insights I had was talking and interacting with the crew that were seasonal and hearing about how difficult it is to find accomadation in the Pecos and Santa Fe area. I really feel that I want to work towards increasing the supply of well build natural dwellings that are well built , affordable, and I wonder if being a builder is the best way to have the greatest impact. I wonder if working in community planning and advocacy would be a better path or at least something to explore, as it has made me question how I can have the greatest impact. Definitely Volunteering will be something I want to continue to do and I am disappointerrd that cornerstone did not have any project for me to contriubute to over the summer.
+I think that one of the most important insights I had was talking and interacting with the crew that were seasonal and hearing about how difficult it is to find accomadation in the Pecos and Santa Fe area. I really feel that I want to work towards increasing the supply of well build natural dwellings that are well built , affordable, and I wonder if being a builder is the best way to have the greatest impact. I wonder if working in community planning and advocacy would be a better path or at least something to explore, as it has made me question how I can have the greatest impact. Definitely Volunteering will be something I want to continue to do and I am disappointerrd that cornerstone did not have any project for me to contriubute to over the summer.  
+   
 </div>
