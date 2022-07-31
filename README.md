@@ -384,29 +384,28 @@ I had a good time working with this team, they made me feel useful and I felt th
 ## Learning Outcome
 
 <div style="background-color: navajowhite; padding: 20px;">
-Clay is impossible to screen when its damp, it has been super annoying to find organic matter and aggregate in the plaster as it scrapes the surface of the caps and joints when you apply , so it slows down the process as you have to rework the finish and remove the object and refinish. 
+- Clay is impossible to screen when its damp, it has been super annoying to find organic matter and aggregate in the plaster as it scrapes the surface of the caps and joints when you apply , so it slows down the process as you have to rework the finish and remove the object and refinish. 
     
 <br> 
-<!--**I would suggest covering the ingredients area with tarps however it just seems to be an issue that everyone is used to. The sand / soil area is large. If the ingredients were kept dry the mix could be more consistent and the each batch could be screened when being mixed.**-->
-The right equipment is very important things like adequate shade to power tools like the [arborteh brick and mortar saw](https://www.amazon.com/ARBORTECH-ALLSAW-Masonry-Restoration-ALL-FG-175110-20/dp/B07T2MV982) make a huge difference to productivity.  
+- The right equipment is very important things like adequate shade to power tools like the [arborteh brick and mortar saw](https://www.amazon.com/ARBORTECH-ALLSAW-Masonry-Restoration-ALL-FG-175110-20/dp/B07T2MV982) make a huge difference to productivity.  
     
 <br> 
-Other power tools like a Multimixer for Plaster / Mortar / Adobe and Power Wheel Barrows really help with burnout and keeping energy level high.  
+- Other power tools like a Multimixer for Plaster / Mortar / Adobe and Power Wheel Barrows really help with burnout and keeping energy level high.  
     
 <br>
-I feel like the time i spent mixing Mud was time well spent. I got a real feel for it, and found that I have improved enormously.  
+- I feel like the time i spent mixing Mud was time well spent. I got a real feel for it, and found that I have improved enormously.  
     
 <br>
-As much as I liked working on preserving, it was quite frustrating at time to see the process of only removing the damaged areas of walls, I feel like it took so much extra time to match in little portions when removing a larger area top to bottom would have been faster and made for a stronger wall in the end.  
+- As much as I liked working on preserving, it was quite frustrating at time to see the process of only removing the damaged areas of walls, I feel like it took so much extra time to match in little portions when removing a larger area top to bottom would have been faster and made for a stronger wall in the end.  
     
 <br>
-Measurement and Leveling was not great, No speed leads were used but we were trying to match to old irregular walls, so it was not a matter of being able to learn skills that were best Practices.  
+- Measurement and Leveling was not great, No speed leads were used but we were trying to match to old irregular walls, so it was not a matter of being able to learn skills that were best Practices.  
     
 <br>
-I also felt at time that communication was poor, when it came to a plan for rebuilding walls. I think that making a small sketch would have been helpful so everyone could see what the objective was and what the result should look like.  
+- I also felt at time that communication was poor, when it came to a plan for rebuilding walls. I think that making a small sketch would have been helpful so everyone could see what the objective was and what the result should look like.  
     
 <br>
-I think that one of the most important insights I had was talking and interacting with the crew that were seasonal and hearing about how difficult it is to find accomadation in the Pecos and Santa Fe area. I really feel that I want to work towards increasing the supply of well build natural dwellings that are well built , affordable, and I wonder if being a builder is the best way to have the greatest impact. I wonder if working in community planning and advocacy would be a better path or at least something to explore, as it has made me question how I can have the greatest impact. Definitely Volunteering will be something I want to continue to do and I am disappointerrd that cornerstone did not have any project for me to contriubute to over the summer.  
+- I think that one of the most important insights I had was talking and interacting with the crew that were seasonal and hearing about how difficult it is to find accomadation in the Pecos and Santa Fe area. I really feel that I want to work towards increasing the supply of well build natural dwellings that are well built , affordable, and I wonder if being a builder is the best way to have the greatest impact. I wonder if working in community planning and advocacy would be a better path or at least something to explore, as it has made me question how I can have the greatest impact. Definitely Volunteering will be something I want to continue to do and I am disappointerrd that cornerstone did not have any project for me to contriubute to over the summer.  
    
  <br>
 </div>
