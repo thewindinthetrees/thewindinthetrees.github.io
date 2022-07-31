@@ -155,11 +155,12 @@ ___
     <figcaption style="text-transform: uppercase;">Metal Tags mark a new intervention in the old walls</figcaption>
 </figure>
 
+<br>
+
 <div style="background-color: lightgrey; padding: 20px;">
 At Pecos, the goal of preservation activities is to stabilize and repair the existing buildings to reflect the history of the site appropriately. The intention is not to reconstruct, or build anew what once existed, but rather to preserve what is already there.
-</div>
-
 <br>
+</div>
 
 The highlight of today was watching the beginnings of a supporting wall replacement. A porting of a wall was removed as it was bulging and the protective veneer was pulling away from the main structure. The team had cleaned out all the brick and plaster and were applying a coat of mortar to the wall. They marked this intervention with dated metal tags for future excavators.
 
