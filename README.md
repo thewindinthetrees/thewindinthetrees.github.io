@@ -71,7 +71,7 @@ I was interested in doing field work at multiple locations but in the end I spen
 
 ---
 
-On arriving I went to the office and filled out HR paperwork so I would be allowed on site. I then reported to Kate and was introduced to the crew, I was introduced to Bree and Christopher and began to help them. They were working in the Convento, replastering the walls using a Cherry Picker. The floor of the Convent is Flagstone so plywood had to be laid and moved for the cherry picker so it didn’t crack the stone.
+On arriving I went to the office and filled out HR paperwork so I would be allowed on site. I then reported to **Kate** and was introduced to the crew, I was introduced to **Bree** and **Christopher** and began to help them. They were working in the Convento, replastering the walls using a cherry picker. The floor of the Convent is flagstone so plywood had to be laid and moved for the cherry picker so it didn’t crack the stone.
 
 <figure>
     <img src="images/ConventocherryPicker.jpeg"
@@ -79,10 +79,9 @@ On arriving I went to the office and filled out HR paperwork so I would be allow
     <figcaption style="text-transform: uppercase;">First day helped replaster cracked walls in the Convento.</figcaption>
 </figure>
 
-Kate assigned me to shadow **Christoper** (an Intern) he showed me how to make mud. The mix was 4 parts Clay Soil to 5 parts Sand and Diluted [Rhoplex](https://www.dow.com/en-us/pdp.rhoplex-2510-acrylic-emulsion.482730z.html#overview) to consistency _(approx  1.5 liters)_
-
-Christopher showed me where the tools are stored and I got familiar with how the day goes. We enjoyed a break in the shade at 10am, and lunch at  noon.  By 2:20pm we started to clean up, all tools buckets and Wheelbarrows needed to be cleaned and returned to a locked tool Box and Tool area. 
-By the end of the day I had a good idea of who does what, where things are located, and what they consider the correct consistency for Plaster Mix . 
+**Kate** assigned me to shadow **Christoper** (an Intern) he showed me how to make mud. The mix was 4 parts Clay Soil to 5 parts Sand and Diluted [Rhoplex](https://www.dow.com/en-us/pdp.rhoplex-2510-acrylic-emulsion.482730z.html#overview) to consistency _(approx  1.5 liters)_
+**Christopher** showed me where the tools are stored and I got familiar with how the day goes. We enjoyed a break in the shade at 10am, and lunch at  noon.  By 2:20pm we started to clean up, all tools buckets and Wheelbarrows needed to be cleaned and returned to a locked tool box and tool area. 
+By the end of the day I had a good idea of who does what, where things are located, and what they consider the correct consistency for Plaster Mix. 
 <figure>
     <img src="images/MissionChurches.jpeg"
          alt="More Information stations at Pecos National Park">
@@ -91,29 +90,26 @@ By the end of the day I had a good idea of who does what, where things are locat
 
 ___
 
-## Log Entries 02 - Day 2. 
+## Log Entries 02 - Day 2
 
-**Week 2**. 
+**Week 2**
 
-07/07/2022. 
+07/07/2022 
 
-8am-3pm. 
+8am-3pm
 
-15 minute break at 10am and 30 minute break for lunch at 12pm. 
+15 minute break at 10am and 30 minute break for lunch at 12pm
 
-**Hours:** 6 hr 15 mins. 
+**Hours:** 6 hr 15 mins
 
-**Hours to date:** 12:30. 
+**Hours to date:** 12:30
 
 ___
 
 Reported to **Kate**, she asked me to work with **Jeremy**. He showed myself and **Mark** how to clean and prepare a _Wall Cap_ for replastering. We brushed the wall top with small seagrass broom, then primed the cleaned cap with water and filled the biggest cracks with mud. We repeated this over several walls. After break the mud in the craks were dry enough to be worked over with a second coat this time over the entire _Cap_ of the wall.
 Dampened burlap was placed on the freshly capped walls to slow the drying process and reduce cracking. 
 In the afternoon I asissed in cleaning and pointing joints in the walls. The same process of brushing and removing any loose mortar / plaster, then priming with water and repointing the joints.  
-When the mortar is leather hard the joints are brushed to remove any tool marks. 
-Today the Mud mix was a little different (We had to adjust to a 1:1 Clay Soil: Sand Mix) as the sand and clay soil has been getting wet from the afternoon rains.
-
-
+When the mortar is leather hard the joints are brushed to remove any tool marks. Today the Mud mix was a little different (We had to adjust to a 1:1 Clay Soil: Sand Mix) as the sand and clay soil has been getting wet from the afternoon rains.
 
 ---
 
@@ -137,19 +133,19 @@ Today the Mud mix was a little different (We had to adjust to a 1:1 Clay Soil: S
 
 ---
 
-## Log Entries 03 - Day 3. 
+## Log Entries 03 - Day 3 
 
-**Week 3**. 
+**Week 3**
 
-07/13/2022. 
+07/13/2022
 
-8am-3pm. 
+8am-3pm
 
-15 minute break at 10am and 30 minute break for lunch at 12pm. 
+15 minute break at 10am and 30 minute break for lunch at 12pm
 
-**Hours:** 6 hr 15 mins. 
+**Hours:** 6 hr 15 mins
 
-**Hours to date:** 18:45. 
+**Hours to date:** 18:45
 
 ___
 
@@ -163,9 +159,7 @@ ___
 At Pecos, the goal of preservation activities is to stabilize and repair the existing buildings to reflect the history of the site appropriately. The intention is not to reconstruct, or build anew what once existed, but rather to preserve what is already there.
 </div>
 
-
-The highlight of today was watching the beginnings of a supporting wall replacement.
-A porting of a wall was removed as it was bulging and the protective veneer was pulling away from the main structure. The team had cleaned out all the brick and plaster and were applying a coat of mortar to the wall. They marked this intervention with dated metal tags for future excavators.
+The highlight of today was watching the beginnings of a supporting wall replacement. A porting of a wall was removed as it was bulging and the protective veneer was pulling away from the main structure. The team had cleaned out all the brick and plaster and were applying a coat of mortar to the wall. They marked this intervention with dated metal tags for future excavators.
 
 The rest of the day was spent Pointing and Plastering Walls.
 
@@ -177,23 +171,23 @@ The rest of the day was spent Pointing and Plastering Walls.
 <figure>
     <img src="images/BurlapProtectingFreshCaps.jpeg"
          alt="Damp Burlap on Wall Caps">
-    <figcaption style="text-transform: uppercase;">Damp Burlap on Freshly plastered caps</figcaption>
+    <figcaption style="text-transform: uppercase;">Damp Burlap on freshly plastered caps</figcaption>
 </figure>
 
 ---
-## Log Entries 04 - Day 4. 
+## Log Entries 04 - Day 4
 
-**Week 4**. 
+**Week 4**
 
-07/14/2022. 
+07/14/2022
 
-8am-3pm. 
+8am-3pm
 
-15 minute break at 10am and 30 minute break for lunch at 12pm. 
+15 minute break at 10am and 30 minute break for lunch at 12pm
 
-**Hours:** 6 hr 15 mins. 
+**Hours:** 6 hr 15 mins
 
-**Hours to date:** 25:00. 
+**Hours to date:** 25:00
 
 ---
 
@@ -203,9 +197,7 @@ The rest of the day was spent Pointing and Plastering Walls.
     <figcaption style="text-transform: uppercase;">The Park has amazing Equipment resources</figcaption>
 </figure>
 
-The day was spent _Pointing and Plastering Wall Caps_. I was struck by how much I have improved over the last few working day, I am getting faster and more confident in applying mud and the finish I am getting is more consistent.
-Large sections of wall like this can take a long time to do, and it takes a lot of mud to do it. 
-Gas powered Barrows and Mixers really help out when you have a task that’s already taxing physically.
+The day was spent _Pointing and Plastering Wall Caps_. I was struck by how much I have improved over the last few working day, I am getting faster and more confident in applying mud and the finish I am getting is more consistent.Large sections of wall like this can take a long time to do, and it takes a lot of mud to do it. Gas powered Barrows and Mixers really help out when you have a task that’s already taxing physically.
 
 <br>
 <div style="background-color: lightgrey; padding: 20px;">
@@ -218,9 +210,6 @@ While this building material is durable in New Mexico's climate, the adobes last
          alt="Wall Caps">
     <figcaption style="text-transform: uppercase;">Large areas require a lot of Mud</figcaption>
 </figure>
-
-Large sections of wall like this can take a long time to do, and it takes a lot of mud to do it. 
-Gas powered Barrows and Mixers really help out when you have a task that’s already taxing physically.
 
 ---
 <figure>
@@ -247,23 +236,24 @@ Today I also got to observe and help with the removal of a portion of failing wa
 
 ---
 
-## Log Entries 05 - Day 5. 
+## Log Entries 05 - Day 5
 
-**Week 4**. 
+**Week 4**
 
-07/20/2022. 
+07/20/2022
 
-8am-3pm. 
+8am-3pm
 
-15 minute break at 10am and 30 minute break for lunch at 12pm. 
+15 minute break at 10am and 30 minute break for lunch at 12pm
 
-**Hours:** 6 hr 15 mins. 
+**Hours:** 6 hr 15 mins
 
-**Hours to date:** 31:15. 
+**Hours to date:** 31:15
 
 ___
 
 Today I did a lot of observing and assisting on a large wall that needed courses replaced after the veneer front had started to pull away from the wall. Metal Tags date and mark the point of intervention for future preservationists.
+
 <figure>
     <img src="images/TagsAndPockets.jpeg"
          alt="Metal Tags and Mortar Pockets">
@@ -273,35 +263,35 @@ Today I did a lot of observing and assisting on a large wall that needed courses
 <figure>
     <img src="images/keyed.jpeg"
          alt="New wall keyed into existing wall">
-    <figcaption style="text-transform: uppercase;">The adobe  isblock “Keyed” into the existing wall.
+    <figcaption style="text-transform: uppercase;">The adobe block is *Keyed* into the existing wall.
 </figcaption>
 </figure>
-The adobe blocks are set on a thick layer of mortar and “Keyed” into the existing wall. Keying should happen at least every third course.
+The adobe blocks are set on a thick layer of mortar, *Keying* should happen at least every third course.
 <figure>
     <img src="images/staging.jpeg"
-         alt="Loose blocked are staged for placement">
+         alt="Loose blocks are staged for placement">
     <figcaption style="text-transform: uppercase;">Loose blocks are staged for fit and placement
 </figcaption>
 </figure>
 
-The above image shows the sequence of fitting and placing blocks. This technique called “Staging” help determine placement and fit. 
-After **Brie** placed the course I got to point around them. 
+The above image shows the sequence of fitting and placing blocks. This technique called *Staging* helps determine placement and fit. 
+After **Brie** placed the course I got to point around them with mud.
 
 ---
 
-## Log Entries 06 - Day 6. 
+## Log Entries 06 - Day 6
 
-**Week 4**. 
+**Week 4**
 
-07/21/2022. 
+07/21/2022
 
-8am-1:30pm. 
+8am-1:30pm
 
-15 minute break at 10am and 30 minute break for lunch at 12pm. 
+15 minute break at 10am and 30 minute break for lunch at 12pm
 
-**Hours:** 4hr 45mins. 
+**Hours:** 4hr 45mins
 
-**Hours to date:** 37:30.  
+**Hours to date:** 37:30
 
 ---
 
@@ -318,52 +308,46 @@ and the [Whitman WBH-16 ](WBH-16Fhttps://www.multiquip.com/multiquip/WBH16F.htm)
 <figure>
     <img src="images/shadeCanopy.jpeg"
          alt="help with mud mixing">
-    <figcaption style="text-transform: uppercase;">Shade help slow drying and burnout
+    <figcaption style="text-transform: uppercase;">Shade help slow the drying process and prevents burnout
 </figcaption>
 </figure>
-
-Shade from the intense sun is helpful not only to slow down the drying process but help with work fatigue
 
 After **Brie** and **Mason** cut and layed blocks I was able to mortar and point around them.
 
 <figure>
     <img src="images/tarps.jpeg"
          alt="help with mud mixing">
-    <figcaption style="text-transform: uppercase;">Tarps protect work from the dammage of the rain
+    <figcaption style="text-transform: uppercase;">Tarps protect work from the damage of the rain
 </figcaption>
 </figure>
 
-We had to break for the day a few hours early as an unexpected storm developed.
-
-
----
-
-## Log Entries 07 - Day 7. 
-
-
-**Week 5**. 
-
-
-07/25/2022. 
-
-
-8am-3pm. 
-
-
-15 minute break at 10am and 30 minute break for lunch at 12pm. 
-
-
-**Hours:** 6hr 15mins. 
-
-
-**Hours to date:** 43:45. 
+We had to break for the day a few hours early as an unexpected storm quickly developed.
 
 ---
 
-The team made a lot of progress on Friday so by Monday we were placing the cut capping bricks. 
-I did a lot of observing and mixing mud and pointing once the sources were laid I also got to lay a few brick.
+## Log Entries 07 - Day 7
 
-I had a good time working with this team, they made me feel useful and I felt they appreciated the help. 
+
+**Week 5**
+
+
+07/25/2022
+
+
+8am-3pm
+
+
+15 minute break at 10am and 30 minute break for lunch at 12pm
+
+
+**Hours:** 6hr 15mins
+
+
+**Hours to date:** 43:45
+
+---
+
+The team had made a lot of progress on Friday so by Monday we were placing the cut capping bricks. I did a lot of observing, mixing mud, and pointing, once the brick were layed and got approval from **Kate** and Jeremy I was able to point around them. I also got to lay a few brick. I have really enjoyed my time working with this team, they made me feel useful, and I felt they appreciated the help. 
 
 <figure>
     <img src="images/finalDay.jpeg"
@@ -377,7 +361,7 @@ I had a good time working with this team, they made me feel useful and I felt th
 ## Learning Outcome
 
 <div style="background-color: navajowhite; padding: 20px;">
-- Clay is impossible to screen when its damp, it has been super annoying to find organic matter and aggregate in the plaster as it scrapes the surface of the caps and joints when you apply , so it slows down the process as you have to rework the finish and remove the object and refinish. 
+* Clay is impossible to screen when its damp, it has been super annoying to find organic matter and aggregate in the plaster as it scrapes the surface of the caps and joints when you apply , so it slows down the process as you have to rework the finish and remove the object and refinish. 
     
 <br> 
 - The right equipment is very important things like adequate shade to power tools like the [arborteh brick and mortar saw](https://www.amazon.com/ARBORTECH-ALLSAW-Masonry-Restoration-ALL-FG-175110-20/dp/B07T2MV982) make a huge difference to productivity.  
