@@ -42,8 +42,6 @@ I was interested in doing field work at multiple locations but in the end I spen
 
 ## Timesheet for David Kennedy @ Pecos
 
----
-
 |Week| Dates | Daily Hours |Total|
 |:--:| :---: | :---: | :---:     |
 | 1  |6/30/22|  6.25 |  6:25     |
@@ -52,7 +50,7 @@ I was interested in doing field work at multiple locations but in the end I spen
 | 3  |7/14/22|  6.25 | 25:00     | 
 | 4  |7/20/22|  6.25 | 31:15     |
 | 4  |7/21/22|  5    | 37:30     |
-| 5  |7/25/22|  6.25 | **43:45**     |
+| 5  |7/25/22|  6.25 | **43:45** |
 
 
 ## Log Entries 01 - Day 1
