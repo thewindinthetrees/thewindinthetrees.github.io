@@ -272,15 +272,14 @@ Today I did a lot of observing and assisting on a large wall that needed courses
     <figcaption style="text-transform: uppercase;">The adobe block is *Keyed* into the existing wall.
 </figcaption>
 </figure>
-The adobe blocks are set on a thick layer of mortar, *Keying* should happen at least every third course.
+
 <figure>
     <img src="images/staging.jpeg"
          alt="Loose blocks are staged for placement">
     <figcaption style="text-transform: uppercase;">Loose blocks are staged for fit and placement
 </figcaption>
 </figure>
-
-The above image shows the sequence of fitting and placing blocks. This technique called *Staging* helps determine placement and fit. 
+The adobe blocks are set on a thick layer of mortar, *Keying* should happen at least every third course. The above image shows the sequence of fitting and placing blocks. This technique called *Staging* helps determine placement and fit. 
 After **Brie** placed the course I got to point around them with mud.
 
 ---
