@@ -54,12 +54,6 @@ I was interested in doing field work at multiple locations but in the end I spen
 | 4  |7/21/22|  5    | 37:30     |
 | 5  |7/25/22|  6.25 | **43:45** |
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Log Entries 01 - Day 1
 
@@ -363,7 +357,6 @@ We had to break for the day a few hours early as an unexpected storm developed.
 
 
 **Hours to date:** 43:45. 
-
 
 ---
 
