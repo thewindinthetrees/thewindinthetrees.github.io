@@ -375,7 +375,7 @@ I had a good time working with this team, they made me feel useful and I felt th
 <figure>
     <img src="images/finalDay.jpeg"
          alt="help with mud mixing">
-    <figcaption style="text-transform: uppercase;">Finishing the _Wall Cap_
+    <figcaption style="text-transform: uppercase;">Finishing the Wall Cap
 </figcaption>
 </figure>
 
