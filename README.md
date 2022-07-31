@@ -159,6 +159,8 @@ ___
 At Pecos, the goal of preservation activities is to stabilize and repair the existing buildings to reflect the history of the site appropriately. The intention is not to reconstruct, or build anew what once existed, but rather to preserve what is already there.
 </div>
 
+<br>
+
 The highlight of today was watching the beginnings of a supporting wall replacement. A porting of a wall was removed as it was bulging and the protective veneer was pulling away from the main structure. The team had cleaned out all the brick and plaster and were applying a coat of mortar to the wall. They marked this intervention with dated metal tags for future excavators.
 
 The rest of the day was spent Pointing and Plastering Walls.
@@ -197,7 +199,7 @@ The rest of the day was spent Pointing and Plastering Walls.
     <figcaption style="text-transform: uppercase;">The Park has amazing Equipment resources</figcaption>
 </figure>
 
-The day was spent _Pointing and Plastering Wall Caps_. I was struck by how much I have improved over the last few working day, I am getting faster and more confident in applying mud and the finish I am getting is more consistent.Large sections of wall like this can take a long time to do, and it takes a lot of mud to do it. Gas powered Barrows and Mixers really help out when you have a task that’s already taxing physically.
+The day was spent _Pointing and Plastering Wall Caps_. I was struck by how much I have improved over the last few working day, I am getting faster and more confident in applying mud and the finish I am getting is more consistent. Large sections of wall like this can take a long time to do, and it takes a lot of mud to do it. Gas powered Barrows and Mixers really help out when you have a task that’s already taxing physically.
 
 <br>
 <div style="background-color: lightgrey; padding: 20px;">
