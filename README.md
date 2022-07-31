@@ -369,7 +369,8 @@ The team had made a lot of progress on Friday so by Monday we were placing the c
     Clay is impossible to screen when its damp, it has been super annoying to find organic matter and aggregate in the plaster as it scrapes the surface of the caps and joints when you apply , so it slows down the process as you have to rework the finish and remove the object and refinish. 
 <br>    
 <br> 
-    The right equipment is very important things like adequate shade to power tools like the [arborteh brick and mortar saw](https://www.amazon.com/ARBORTECH-ALLSAW-Masonry-Restoration-ALL-FG-175110-20/dp/B07T2MV982) make a huge difference to productivity.  
+    The right equipment is very important things like adequate shade to power tools like the 
+    [arborteh Masonry Saw](https://www.arbortechtools.com/us/shop-online/masonry-trade/power-tools/allsaw-as175) make a huge difference to productivity.  
  <br>    
 <br> 
     Other power tools like a Multimixer for Plaster / Mortar / Adobe and Power Wheel Barrows really help with burnout and keeping energy level high.  
