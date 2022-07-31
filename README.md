@@ -54,6 +54,13 @@ I was interested in doing field work at multiple locations but in the end I spen
 | 4  |7/21/22|  5    | 37:30     |
 | 5  |7/25/22|  6.25 | **43:45** |
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Log Entries 01 - Day 1
 
 **Week 1**
@@ -135,19 +142,20 @@ Today the Mud mix was a little different (We had to adjust to a 1:1 Clay Soil: S
 
 ---
 
-## Log Entries 03 - Day 3
+## Log Entries 03 - Day 3. 
 
-**Week 3**
+**Week 3**. 
 
-07/13/2022
+07/13/2022. 
 
-8am-3pm
+8am-3pm. 
 
-15 minute break at 10am and 30 minute break for lunch at 12pm
+15 minute break at 10am and 30 minute break for lunch at 12pm. 
 
-**Hours:** 6 hr 15 mins
+**Hours:** 6 hr 15 mins. 
 
-**Hours to date:** 18:45
+**Hours to date:** 18:45  
+
 ___
 
 <figure>
