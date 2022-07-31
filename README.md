@@ -370,7 +370,7 @@ The team had made a lot of progress on Friday so by Monday we were placing the c
 <br>    
 <br> 
     The right equipment is very important things like adequate shade to power tools like the 
-    [arborteh Masonry Saw](https://www.arbortechtools.com/us/shop-online/masonry-trade/power-tools/allsaw-as175) make a huge difference to productivity.  
+    <a href="https://www.arbortechtools.com/us/shop-online/masonry-trade/power-tools/allsaw-as175">Arborteh Masonry Saw</a> make a huge difference to productivity.  
  <br>    
 <br> 
     Other power tools like a Multimixer for Plaster / Mortar / Adobe and Power Wheel Barrows really help with burnout and keeping energy level high.  
