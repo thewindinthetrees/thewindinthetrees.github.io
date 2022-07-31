@@ -158,6 +158,7 @@ ___
 <br>
 
 <div style="background-color: lightgrey; padding: 20px;">
+    
 At Pecos, the goal of preservation activities is to stabilize and repair the existing buildings to reflect the history of the site appropriately. The intention is not to reconstruct, or build anew what once existed, but rather to preserve what is already there.
 <br>
 </div>
@@ -201,12 +202,14 @@ The rest of the day was spent Pointing and Plastering Walls.
 </figure>
 
 The day was spent _Pointing and Plastering Wall Caps_. I was struck by how much I have improved over the last few working day, I am getting faster and more confident in applying mud and the finish I am getting is more consistent. Large sections of wall like this can take a long time to do, and it takes a lot of mud to do it. Gas powered Barrows and Mixers really help out when you have a task that’s already taxing physically.
-
 <br>
+
 <div style="background-color: lightgrey; padding: 20px;">
 While this building material is durable in New Mexico's climate, the adobes last longer when protected from the elements with a coat of mud plaster. Made from the same mud mix as adobe bricks, the plaster will take the brunt of the weather, much like the siding on your house. Historically this is how the building walls were treated at Pecos.
 <br>
 </div>
+
+<br>
 
 <figure>
     <img src="images/plasteredWallsCaps.jpeg"
