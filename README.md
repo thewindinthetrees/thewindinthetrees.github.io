@@ -41,11 +41,6 @@ Pecos became a State Monument in 1935, and National Park in 1965 and 1990s becam
 I was interested in doing field work at multiple locations but in the end I spent the entire practicum working at the [Pecos National Historical Park](https://www.nps.gov/peco/index.htm) and specifically working with the Preservation team in and around the Convento of the Spanish Mission Church and Pueblo. Over the course of five weeks I worked with a team of Interns and Park Rangers under direction from Park Archaeologists **Jeremy Moss** and **Kate Scot**.  
 
 ## Timesheet for David Kennedy @ Pecos
-<figure>
-    <img src="images/timesheet.jpg"
-         alt="TimeSheet for Practicum">
-</figure>
-
 
 ---
 
