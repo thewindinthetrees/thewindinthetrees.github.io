@@ -70,15 +70,12 @@ I was interested in doing field work at multiple locations but in the end I spen
 
 15 minute break at 10am and 30 minute break for lunch at 12pm
 
-Hours: 6 hr 15 mins
+**Hours:** 6 hr 15 mins
 
-Hours to date: 6:15
+**Hours to date:** 6:15
 
-Observed: Mud Making, Plastering, Cleanup
+---
 
-Tasks: Mid Making, Plastering, Cleanup.
-
-___
 On arriving I went to the office and filled out HR paperwork so I would be allowed on site. I then reported to Kate and was introduced to the crew, I was introduced to Bree and Christopher and began to help them. They were working in the Convento, replastering the walls using a Cherry Picker. The floor of the Convent is Flagstone so plywood had to be laid and moved for the cherry picker so it didn’t crack the stone.
 
 <figure>
@@ -109,9 +106,9 @@ ___
 
 15 minute break at 10am and 30 minute break for lunch at 12pm
 
-Hours: 6 hr 15 mins
+**Hours:** 6 hr 15 mins
 
-Hours to date: 12:30
+**Hours to date:** 12:30
 ___
 
 Reported to **Kate**, she asked me to work with **Jeremy**. He showed myself and **Mark** how to clean and prepare a _Wall Cap_ for replastering. We brushed the wall top with small seagrass broom, then primed the cleaned cap with water and filled the biggest cracks with mud. We repeated this over several walls. After break the mud in the craks were dry enough to be worked over with a second coat this time over the entire _Cap_ of the wall.
@@ -145,12 +142,12 @@ Today the Mud mix was a little different (We had to adjust to a 1:1 Clay Soil: S
 ---
 
 ## Log Entries 03 - Day 3
-Week 3
+**Week 3**
 07/13/2022
 8am-3pm
 15 minute break at 10am and 30 minute break for lunch at 12pm
-Hours: 6 hr 15 mins
-Hours to date: 18:45
+**Hours:** 6 hr 15 mins
+**Hours to date:** 18:45
 ___
 
 
@@ -184,12 +181,12 @@ The rest of the day was spent Pointing and Plastering Walls.
 
 ---
 ## Log Entries 04 - Day 4
-Week 4
+**Week 4**
 07/14/2022
 8am-3pm
 15 minute break at 10am and 30 minute break for lunch at 12pm
-Hours: 6 hr 15 mins
-Hours to date: 25:00
+**Hours:** 6 hr 15 mins
+**Hours to date:** 25:00
 
 ---
 
@@ -253,9 +250,9 @@ Today I also got to observe and help with the removal of a portion of failing wa
 
 15 minute break at 10am and 30 minute break for lunch at 12pm
 
-Hours: 6 hr 15 mins
+**Hours:** 6 hr 15 mins
 
-Hours to date: 31:15
+**Hours to date:** 31:15
 ___
 
 Today I did a lot of observing and assisting on a large wall that needed courses replaced after the veneer front had started to pull away from the wall. Metal Tags date and mark the point of intervention for future preservationists.
@@ -293,9 +290,9 @@ After **Brie** placed the course I got to point around them.
 
 15 minute break at 10am and 30 minute break for lunch at 12pm
 
-Hours: 4hr 45mins
+**Hours:** 4hr 45mins
 
-Hours to date: 37:30
+**Hours to date:** 37:30
 
 ---
 
@@ -338,8 +335,8 @@ We had to break for the day a few hours early as an unexpected storm developed.
 07/25/2022
 8am-3pm
 15 minute break at 10am and 30 minute break for lunch at 12pm
-Hours: 6hr 15mins
-Hours to date: 43:45
+**Hours:** 6hr 15mins
+**Hours to date:** 43:45
 
 ---
 
