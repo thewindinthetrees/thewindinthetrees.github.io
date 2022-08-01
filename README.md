@@ -7,7 +7,7 @@ Pecos National Historical Park is located 30 miles east of Santa Fe NM, at the c
 
 
 <figure>
-    <img src="images/GlorietaPass.jpg"
+    <img src="images/parkHistory.jpeg"
          alt="Map of Pecos Area, New Mexico">
     <figcaption style="text-transform: uppercase;">Pecos Location Map</figcaption>
 </figure>
